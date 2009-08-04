@@ -1,3 +1,9 @@
-==Please follow the installation steps as mentioned bellow==
+=== jChat is one of the easiest ways to add some comunication to your personal/business website. The installation process includes _4_ easy steps and shouldn't take more then 10 minutes to complete. If you find any issues during the installation proccess, please [http://code.google.com/p/es-jchat/issues/list report] them.  ===
 
- # Download the [http://es-jchat.googlecode.com/files/jChat-latest.zip latest] version of jChat
+==Please follow the installation steps as mentioned bellow:==
+
+ # Download the [http://es-jchat.googlecode.com/files/jChat-latest.zip latest] version of jChat.
+ # Extract and upload the files to the `root` directory of your website.
+ # Configure jChat for your needs.
+ # Integrate jChat into your system.
+ # Enjoy!

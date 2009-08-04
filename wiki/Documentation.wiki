@@ -1,5 +1,3 @@
-#summary Script documentation
-
 = Documentation =
 
 Add your content here.

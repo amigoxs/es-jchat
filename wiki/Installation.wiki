@@ -1,0 +1,3 @@
+==Please follow the installation steps as mentioned bellow==
+
+ # Download the [http://es-jchat.googlecode.com/files/jChat-latest.zip latest] version of jChat

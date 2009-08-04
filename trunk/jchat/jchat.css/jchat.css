@@ -1,0 +1,125 @@
+#jChatBar{
+	position:absolute;
+
+	color: #000000;
+	background-color:#e9ece6;
+
+	width: 225px;
+	height: 30px;
+
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #cccccc;
+
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #cccccc;
+
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #cccccc;
+
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #e9ece6;
+
+	font-family: Georgia, Times New Roman, Verdana;
+	font-size: 12pt;
+}
+
+#jChatBox{
+	width: 225px;
+	height: 250px;
+
+	display: none;
+}
+
+#jChatButton{
+	position: absolute;
+
+	left: 0px;
+	top: 0px;
+
+	padding: 5px;
+
+	cursor: pointer;
+
+	font-family: Georgia, Times New Roman, Verdana;
+	font-size: 12pt;
+}
+
+#jChatHelp{
+	position:absolute;
+
+	width: 16px;
+	height: 16px;
+
+	right: 5px;
+	top: 6px;
+
+	cursor: pointer;
+}
+
+#jChatTooltipText{
+	padding: 10px;
+
+	font-family: Georgia, Times New Roman, Verdana;
+	font-size: 10pt;
+}
+
+#jChatTooltip{
+	position: absolute;
+
+	width: 219px;
+	height: 223px;
+
+	top: 30px;
+	left: 2px;
+
+	display: none;
+	
+	background-color: #fff2d3;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #cccccc;
+}
+
+#jChatTextbox{
+	position: absolute;
+
+	color: #000000;
+	background-color:#ffffff;
+
+	width: 219px;
+	height: 223px;
+
+	top: 30px;
+	left: 2px;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #cccccc;
+
+	font-family: Georgia, Times New Roman, Verdana;
+	font-size: 10pt;
+
+	overflow: auto;
+}
+
+#jChatInput{
+	position: absolute;
+
+	width: 221px;
+	height: 20px;
+
+	left: 2px;
+	bottom: 2px;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #cccccc;
+
+	font-family: Georgia, Times New Roman, Verdana;
+	font-size: 10pt;
+}
